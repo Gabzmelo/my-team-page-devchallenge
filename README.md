@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="(https://teampage-devchallenges.netlify.app/)">
+    <a href="https://teampage-devchallenges.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="(https://devchallenges.io/solutions/yNQoPt71dWQvLhYeQNeg)">
+    <a href="https://devchallenges.io/solutions/yNQoPt71dWQvLhYeQNeg">
       Solution
     </a>
     <span> | </span>
